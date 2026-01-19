@@ -6,4 +6,4 @@ Repository Structure
 
 📁 /Gerber Files – PCB manufacturing files
 
-📄 CO2038_ASSIGNMENT_*.pdf – Full technical report 
+📄 CO2038_ASSIGNMENT_ .pdf – Full technical report 
