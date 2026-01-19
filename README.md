@@ -1,4 +1,4 @@
-💧** Water Level Indicator PCB**
+# 💧 Water Level Indicator PCB
 A 2-layer PCB system designed to monitor and indicate water levels.
 
 
